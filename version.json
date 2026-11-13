@@ -1,0 +1,10 @@
+{
+ "version": "1.9.0",
+ "notes": "เพิ่มระบบอัปเดตอัตโนมัติ • Google Sheet มีแท็บภาพรวมรายปีและตีกรอบตาราง",
+ "sha256": "95a66af0647df0f27ad1271ac73dc413bb3798edd779f2a8848fcd0112f15bca",
+ "size": 70457362,
+ "parts": [
+  "AgaOperation-1.9.0.zip.part00",
+  "AgaOperation-1.9.0.zip.part01"
+ ]
+}
